@@ -1,4 +1,4 @@
-# CompetenciApp
+# HackUDC 2025: CompetenciApp
 ## Potenciando tu aplicación con datos e IA
 
 Este repositorio se corresponde con los ejercicios vistos en el Workshop impartido por [Gradiant](https://www.gradiant.org) en la [HackUDC 2025](https://hackudc.gpul.org).
