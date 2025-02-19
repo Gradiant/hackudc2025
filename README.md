@@ -8,13 +8,17 @@ Este repositorio se corresponde con los ejercicios vistos en el Workshop imparti
 
 Tras instalar [Ollama](https://github.com/ollama/ollama) podemos lanzar el servidor.
 
-`ollama serve`
+```bash
+ollama serve
+```
 
 ### Ollama Run
 
 La forma más básica de interactuar con los modelos es lanzar uno desde la consola.
 
-`ollama run llama3.2:1b`
+```bash
+ollama run llama3.2:1b
+```
 
 ### Ollama REST API
 
